@@ -1,0 +1,23 @@
+# Setup
+title:               2cfg.su
+tagline:             'system configuration support'
+description:         'description'
+url:                 https://2cfg.github.io
+baseurl:             '/therm'
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Roman Sokolov
+  url:               https://twitter.com/mdo
+  email:             header.cpp@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
