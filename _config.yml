@@ -2,7 +2,7 @@
 title:               2cfg.su
 tagline:             'system configuration support'
 description:         ''
-url:                 http://2cfg.su
+url:                 https://2cfg.su
 baseurl:             ''
 paginate:            5
 permalink:           pretty
