@@ -1,9 +1,9 @@
 # Setup
 title:               2cfg.su
 tagline:             'system configuration support'
-description:         'description'
-url:                 https://2cfg.github.io
-baseurl:             '/therm'
+description:         ''
+url:                 http://2cfg.su
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
